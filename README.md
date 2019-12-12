@@ -1,0 +1,2 @@
+# newsAPI
+Project on NEWSAPI
